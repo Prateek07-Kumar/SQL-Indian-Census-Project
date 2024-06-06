@@ -1,0 +1,1 @@
+select * from netflix_raw order by title;
